@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Dingyangyu-Sky.github.io/-2",
+  "homepage": "https://dingyangyu-sky.github.io/-2",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Dingyangyu-Sky.github.io/-2'",
+    "build-gh": "parcel build --public-url 'https://dingyangyu-sky.github.io/-2'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
